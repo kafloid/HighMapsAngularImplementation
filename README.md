@@ -1,6 +1,6 @@
 # Highmaps
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.10.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.10. This version was used in consequence of the version used in a major private project that I'm currently working on.
 
 ## Development server
 
